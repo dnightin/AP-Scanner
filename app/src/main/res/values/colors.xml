@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#F3F5F7</color>
+    <color name="panel_background">#FFFFFF</color>
+    <color name="primary_text">#1D2430</color>
+    <color name="secondary_text">#667085</color>
+    <color name="muted_text">#8A94A6</color>
+    <color name="accent">#1769AA</color>
+    <color name="accent_dark">#0F4C81</color>
+    <color name="signal_good">#11845B</color>
+    <color name="signal_ok">#B7791F</color>
+    <color name="signal_weak">#C2410C</color>
+    <color name="divider">#E2E6EA</color>
+    <color name="chip_background">#EEF4FA</color>
+</resources>

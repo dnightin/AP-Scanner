@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AP Scanner</string>
+    <string name="scan">Scan</string>
+    <string name="permission_needed">Location and nearby Wi-Fi permissions are required to show SSID scan results.</string>
+</resources>
